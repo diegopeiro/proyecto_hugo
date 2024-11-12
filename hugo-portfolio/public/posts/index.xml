@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Diego Peiró</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Diego Peiró</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 17:31:23 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://localhost:1313/posts/segundo-post/</link>
+      <pubDate>Mon, 28 Oct 2024 17:31:23 +0100</pubDate>
+      <guid>http://localhost:1313/posts/segundo-post/</guid>
+      <description>Este es el segundo post</description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Mon, 28 Oct 2024 17:30:44 +0100</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>Hola esto es un post</description>
+    </item>
+  </channel>
+</rss>
