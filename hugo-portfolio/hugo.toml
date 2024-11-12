@@ -26,7 +26,7 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "#"
+  url = "#https://github.com/diegopeiro/proyectos/tree/master"
 
   [[params.socialIcons]]
   icon = "fa-github"
@@ -68,7 +68,7 @@ customJs = ["js/blog.js"]
   name = "Viaje a Canarias"
   identifier = "viaje"
   weight = 300
-  url = "/canarias/"
+  url = "/viajeCanarias/"
 
 [taxonomies]
   category = "categories"
