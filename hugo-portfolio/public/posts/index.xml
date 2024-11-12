@@ -13,14 +13,7 @@
       <link>http://localhost:1313/posts/bootstrap/</link>
       <pubDate>Tue, 12 Nov 2024 12:51:05 +0100</pubDate>
       <guid>http://localhost:1313/posts/bootstrap/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Primer Post</title>
-      <link>http://localhost:1313/posts/primer-post/</link>
-      <pubDate>Tue, 12 Nov 2024 12:07:52 +0100</pubDate>
-      <guid>http://localhost:1313/posts/primer-post/</guid>
-      <description>Bienvenido a Mi Sitio Web 🌐 ¡Hola! 👋 Bienvenido a mi sitio web, desarrollado con el poderoso generador de sitios estáticos Hugo. Aquí encontrarás una colección de mis proyectos, una sección sobre mí y una manera de contactarme si tienes alguna consulta o deseas colaborar en algún proyecto.&#xA;📝 Descripción del Proyecto Este sitio web fue creado para presentar mis trabajos y experiencias en desarrollo web. Utilicé Hugo por su capacidad de generar sitios estáticos de manera rápida y eficiente.</description>
+      <description>Fuente información: Rockcontent&#xA;Qué es y para qué sirve Bootstrap es un framework front-end utilizado para desarrollar aplicaciones web y sitios mobile first, con un layout que se adapta a la pantalla del dispositivo utilizado por el usuario. ¡Aprende todo sobre esta tecnología y cómo utilizarla!&#xA;¿Qué es Bootstrap? Bootstrap es un framework CSS desarrollado por Twitter en 2010, para estandarizar las herramientas de la compañía.&#xA;Inicialmente, se llamó Twitter Blueprint y, un poco más tarde, en 2011, se transformó en código abierto y su nombre cambió para Bootstrap.</description>
     </item>
     <item>
       <title>Viaje a Canarias</title>
@@ -28,13 +21,6 @@
       <pubDate>Tue, 12 Nov 2024 11:45:31 +0100</pubDate>
       <guid>http://localhost:1313/posts/viajecanarias/</guid>
       <description>🌞 Escapada Inolvidable a Gran Canaria Cinco amigos, siete días y una isla espectacular. Esta es la crónica de un viaje lleno de aventura, paisajes inolvidables y buena compañía.&#xA;✈️ Participantes Chori: Cocinero del grupo Dalmau: Fotógrafo oficial Sonso: El conductor (un poco malillo) Castillo: Oranizador puro Diego: Ese amigo que todo viaje necesita Duración: 4 días&#xA;Fechas: 10 - 13 de Octubre&#xA;📅 Itinerario de Viaje Día 1: Llegada a Las Palmas Alojamiento: Airbnb en la zona de Maspalomas Actividades: Check-in, cena en un restaurante local, y paseo nocturno por el paseo marítimo.</description>
-    </item>
-    <item>
-      <title>Canales Tv</title>
-      <link>http://localhost:1313/posts/canales-tv/</link>
-      <pubDate>Mon, 28 Oct 2024 19:11:49 +0100</pubDate>
-      <guid>http://localhost:1313/posts/canales-tv/</guid>
-      <description></description>
     </item>
     <item>
       <title>Markdown</title>
@@ -49,6 +35,13 @@
       <pubDate>Mon, 28 Oct 2024 17:27:25 +0100</pubDate>
       <guid>http://localhost:1313/posts/sobre-mi/</guid>
       <description>🖥️ Diego Peiró Desarrollador Web&#xA;📍 Zaragoza, España&#xA;📧 diegoprogramacionpeiro@gmail.com&#xA;🔗 LinkedIn | GitHub | Portfolio Web&#xA;👨‍💻 Sobre Mí Soy un desarrollador apasionado con habilidad para crear aplicaciones innovadoras y soluciones efectivas. Con un enfoque en el diseño limpio y la eficiencia, me esfuerzo por mejorar continuamente mis habilidades y ofrecer un código robusto y bien documentado.&#xA;💼 Experiencia Profesional Actualmente estoy terminando el segundo año de DAW, por lo que no tengo experiencia laboral en el sector.</description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Thu, 12 Sep 2024 12:07:52 +0100</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>Bienvenido a Mi Sitio Web 🌐 ¡Hola! 👋 Bienvenido a mi sitio web, desarrollado con el poderoso generador de sitios estáticos Hugo. Aquí encontrarás una colección de mis proyectos, una sección sobre mí y una manera de contactarme si tienes alguna consulta o deseas colaborar en algún proyecto.&#xA;📝 Descripción del Proyecto Este sitio web fue creado para presentar mis trabajos y experiencias en desarrollo web. Utilicé Hugo por su capacidad de generar sitios estáticos de manera rápida y eficiente.</description>
     </item>
   </channel>
 </rss>

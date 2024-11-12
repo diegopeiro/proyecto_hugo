@@ -1,6 +1,6 @@
 +++
 title = 'Primer Post'
-date = 2024-11-12T12:07:52+01:00
+date = 2024-09-12T12:07:52+01:00
 draft = false
 +++
 
