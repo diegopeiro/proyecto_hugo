@@ -52,24 +52,6 @@ customJs = ["js/blog.js"]
   weight = 300
   url = "/sobre-mi/"
 
-  [[menu.main]]
-  name = "Markdown"
-  identifier = "md"
-  weight = 300
-  url = "/markdown/"
-
-  [[menu.main]]
-  name = "Canales Tv"
-  identifier = "tv"
-  weight = 300
-  url = "/canales-tv/"
-
-  [[menu.main]]
-  name = "Viaje a Canarias"
-  identifier = "viaje"
-  weight = 300
-  url = "/viajeCanarias/"
-
 [taxonomies]
   category = "categories"
   series = "series"
