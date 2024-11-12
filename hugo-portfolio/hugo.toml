@@ -62,5 +62,5 @@ customJs = ["js/blog.js"]
   lineNos = false
   lineNumbersInTable = true
   noClasses = true # if false, you need to provide you own custom CSS
-  style = "monokai"
+  style = "dracula"
   tabWidth = 4
