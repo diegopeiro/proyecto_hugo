@@ -1,7 +1,7 @@
 +++
 title = 'Primer Post'
 date = 2024-11-12T12:07:52+01:00
-draft = true
+draft = false
 +++
 
 # Bienvenido a Mi Sitio Web 🌐
@@ -29,10 +29,8 @@ Este sitio web fue creado para presentar mis trabajos y experiencias en desarrol
 Mi sitio web incluye las siguientes secciones:
 
 1. **Inicio**: Una introducción a mi trabajo y un mensaje de bienvenida.
-2. **Sobre Mí**: Una breve biografía y un resumen de mis habilidades.
-3. **Portafolio**: Una galería de proyectos destacados.
-4. **Contacto**: Un formulario para que puedas ponerte en contacto conmigo fácilmente.
-
+2. **Sobre Mí**: Una breve biografía y un resumen de mis habilidades a modo de portfolio.
+3. **Contenido**: Posts de diversos temas: Viaje a Canarias, Canales de Tv, contenido Markdown y mucho más...
 ---
 
 ## 📂 Estructura del Proyecto
@@ -47,4 +45,4 @@ Aquí tienes una descripción de la estructura de archivos y carpetas principale
 ├── layouts          # Estructuras de diseño (HTML) personalizadas
 ├── static           # Archivos estáticos como imágenes, CSS y JavaScript
 ├── themes           # Carpeta donde está el tema Soho
-└── config.toml      # Archivo de configuración principal de Hugo
+└── hugo.toml        # Archivo de configuración principal de Hugo
