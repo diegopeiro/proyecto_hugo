@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42801/posts/canales-tv/</loc>
+    <loc>http://localhost:1313/posts/canales-tv/</loc>
     <lastmod>2024-10-28T19:11:49+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/bootstrap/</loc>
+    <loc>http://localhost:1313/posts/bootstrap/</loc>
     <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/viajecanarias/</loc>
+    <loc>http://localhost:1313/posts/viajecanarias/</loc>
     <lastmod>2024-11-12T11:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/markdown/</loc>
+    <loc>http://localhost:1313/posts/markdown/</loc>
     <lastmod>2024-10-28T19:08:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/sobre-mi/</loc>
+    <loc>http://localhost:1313/posts/sobre-mi/</loc>
     <lastmod>2024-10-28T17:27:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/posts/primer-post/</loc>
+    <loc>http://localhost:1313/posts/primer-post/</loc>
     <lastmod>2024-09-12T12:07:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:42801/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:42801/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>http://localhost:42801/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

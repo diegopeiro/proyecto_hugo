@@ -2,6 +2,7 @@
 title = 'Viaje a Canarias'
 date = 2024-11-12T11:45:31+01:00
 draft = false
+layout = "album"
 +++
 
 # 🌞 Escapada Inolvidable a Gran Canaria
