@@ -25,18 +25,19 @@ customJs = ["js/blog.js"]
   ## Set as many as you want.
   [[params.socialIcons]]
   icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "#https://github.com/diegopeiro/proyectos/tree/master"
+  title = "LinkedIn"
+  url = ""
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/diegopeiro/proyectos.git"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = ""
+
 
 [menu]
 
@@ -45,7 +46,6 @@ customJs = ["js/blog.js"]
   weight = 100
   identifier = "posts"
   url = "/posts/"
-
 
 [taxonomies]
   category = "categories"
