@@ -23,7 +23,7 @@ Respecto a mis aficiones se dividen en dos: Por un lado la música electrónica,
 
 Actualmente estoy terminando el segundo año de DAW, por lo que no tengo experiencia laboral en el sector.
 
-Sin embargo, he trabajado durante dos veranos en un area de servicio como camarero
+Sin embargo, he trabajado durante dos veranos en un area de servicio como camarero. [Airea Sobradiel](https://smarttravelers.areas.com/areas/es/store/AREA-SOBRADIEL-AIREA-Z)
 
 ## 📚 Educación
 
@@ -39,7 +39,7 @@ Los Enlaces, Zaragoza — *2023-2025*
 
 ## 🌐 Proyectos
 
-### [Práctica Hugo](https://github.com/tu-usuario/proyecto1)
+### [Práctica Hugo](https://github.com/diegopeiro/proyectos)
 Practica con el framework Hugo, creación de sitio web estático a modo de portfolio. Uso de technologías como PhpStorm, Vs Code,
 GitHub y más.
 
