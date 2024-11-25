@@ -45,7 +45,7 @@ customJs = ["js/blog.js"]
   name = "Posts"
   weight = 100
   identifier = "posts"
-  url = "/posts/"
+  url = "./posts/"
 
 [taxonomies]
   category = "categories"
